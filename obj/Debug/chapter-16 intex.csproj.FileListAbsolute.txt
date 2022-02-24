@@ -1,0 +1,7 @@
+D:\c#\class time work\chapter-16 intex\chapter-16 intex\bin\Debug\chapter-16 intex.exe.config
+D:\c#\class time work\chapter-16 intex\chapter-16 intex\bin\Debug\chapter-16 intex.exe
+D:\c#\class time work\chapter-16 intex\chapter-16 intex\bin\Debug\chapter-16 intex.pdb
+D:\c#\class time work\chapter-16 intex\chapter-16 intex\obj\Debug\chapter-16 intex.csprojAssemblyReference.cache
+D:\c#\class time work\chapter-16 intex\chapter-16 intex\obj\Debug\chapter-16 intex.csproj.CoreCompileInputs.cache
+D:\c#\class time work\chapter-16 intex\chapter-16 intex\obj\Debug\chapter-16 intex.exe
+D:\c#\class time work\chapter-16 intex\chapter-16 intex\obj\Debug\chapter-16 intex.pdb
